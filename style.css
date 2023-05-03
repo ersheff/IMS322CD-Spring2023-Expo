@@ -1,0 +1,45 @@
+* {
+  font-family: Arial;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  color: white;
+  background-color: #950F22;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 2rem;
+  font-size: 3rem;
+}
+
+h2 {
+  margin: 0;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #950F22;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.flex-row {
+  padding: 2rem;
+  display: flex;
+  gap: 4ch;
+}
+
+a {
+  color: black;
+}
+
